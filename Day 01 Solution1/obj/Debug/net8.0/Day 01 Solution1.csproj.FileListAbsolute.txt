@@ -1,0 +1,14 @@
+D:\Day 01 Solution1\Day 01 Solution1\bin\Debug\net8.0\Day 01 Solution1.exe
+D:\Day 01 Solution1\Day 01 Solution1\bin\Debug\net8.0\Day 01 Solution1.deps.json
+D:\Day 01 Solution1\Day 01 Solution1\bin\Debug\net8.0\Day 01 Solution1.runtimeconfig.json
+D:\Day 01 Solution1\Day 01 Solution1\bin\Debug\net8.0\Day 01 Solution1.dll
+D:\Day 01 Solution1\Day 01 Solution1\bin\Debug\net8.0\Day 01 Solution1.pdb
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.AssemblyInfoInputs.cache
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.AssemblyInfo.cs
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.csproj.CoreCompileInputs.cache
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.dll
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\refint\Day 01 Solution1.dll
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.pdb
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\Day 01 Solution1.genruntimeconfig.cache
+D:\Day 01 Solution1\Day 01 Solution1\obj\Debug\net8.0\ref\Day 01 Solution1.dll
